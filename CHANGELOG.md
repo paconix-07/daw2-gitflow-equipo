@@ -1,4 +1,5 @@
 # Historial de cambios
+- Precio del teclado mecánico: de 55 € a 50 €.
 
 ## [1.0.0] - 2026-11-03
 
